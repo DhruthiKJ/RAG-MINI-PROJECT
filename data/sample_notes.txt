@@ -1,0 +1,23 @@
+The Nernst equation relates the reduction potential of an
+electrochemical reaction to the standard electrode potential,
+temperature, and activities of the chemical species undergoing
+reduction and oxidation. It is used to calculate cell potential
+under non-standard conditions.
+
+A concentration cell is a type of galvanic cell in which two
+half-cells are made of the same material but differ in
+concentration. The cell generates electricity as the system moves
+toward equilibrium by diffusing the concentrated solution into the
+dilute one.
+
+Retrieval-Augmented Generation (RAG) is a technique that combines
+information retrieval with text generation. Instead of relying only
+on what a language model memorized during training, RAG retrieves
+relevant documents at query time and uses them as context, reducing
+hallucination and allowing the model to answer using up-to-date or
+private data.
+
+FAISS (Facebook AI Similarity Search) is a library for efficient
+similarity search of dense vectors. It is commonly used to build
+vector indexes for tasks like semantic search and recommendation
+systems.
